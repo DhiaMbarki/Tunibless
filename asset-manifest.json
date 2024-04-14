@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tunibless.git/static/css/main.ef35b8e5.css",
+    "main.js": "/Tunibless.git/static/js/main.9136f170.js",
+    "static/js/453.abee5be7.chunk.js": "/Tunibless.git/static/js/453.abee5be7.chunk.js",
+    "static/media/kamell.PNG": "/Tunibless.git/static/media/kamell.852e9faa3c39c45ba6fa.PNG",
+    "index.html": "/Tunibless.git/index.html",
+    "main.ef35b8e5.css.map": "/Tunibless.git/static/css/main.ef35b8e5.css.map",
+    "main.9136f170.js.map": "/Tunibless.git/static/js/main.9136f170.js.map",
+    "453.abee5be7.chunk.js.map": "/Tunibless.git/static/js/453.abee5be7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef35b8e5.css",
+    "static/js/main.9136f170.js"
+  ]
+}
